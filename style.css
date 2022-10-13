@@ -41,6 +41,7 @@ footer h3{
 
 .menu h1 {
     cursor: pointer;
+    font-size: x-large;
 }
 
 .menu > nav ul {
@@ -58,6 +59,10 @@ footer h3{
 
 .menu > nav {
     display: inline;
+}
+
+.active {
+    font-weight:900;
 }
 
 header > section > h1 {
