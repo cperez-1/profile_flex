@@ -6,17 +6,6 @@
 
 /* Sidenav - Header */
 
-body > .nav {
-    display: flex;
-    justify-content: space-between;
-    background-color: black;
-    color: white;
-    padding: 18px 0px;
-    align-items: baseline;
-    margin-left: 50px;
-    margin-right: 50px;
-}
-
 body > footer {
     display: flex;
     justify-content: center;
@@ -28,12 +17,6 @@ body > footer {
     margin-right: 50px;
     margin-top: 10px;
 }
-
-footer h3{
-    color: white;
-    text-align: center;
-}
-
 
 .menu {
     margin-left: 423px;
@@ -69,23 +52,6 @@ header > section > h1 {
     display: inline;
 }
 
-.menu-button {
-    position: inherit;
-    margin-right: 27%;
-}
-
-.menu-button button {
-    background-color:green;
-    border: 3px solid black;
-    font-size: 15px;
-    width: 110px;
-    height: 40px;
-    color:white;
-    font-weight:lighter;
-    padding-right: 0;
-    cursor: pointer;
-    box-shadow: 5px 2px 2px black; 
-}
 
 body > main {
     display: flex;
